@@ -1,5 +1,5 @@
 ---
-abstract: 'Much has changed in twenty years... but THEMA-MEDIA still provides solutions based on proven technologies'
+abstract: 'Providing solutions with Modern Perl'
 author:
   - 'Theo van Hoesel <Th.J.v.Hoesel@THEMA-MEDIA.nl>'
 build_requires: {}
@@ -12,8 +12,4 @@ meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: '1.4'
 name: THEMA-MEDIA
-resources:
-  bugtracker: https://github.com/THEMA-MEDIA/CPAN-foolishness/issues
-  homepage: https://github.com/THEMA-MEDIA/CPAN-foolishness
-  repository: https://github.com/THEMA-MEDIA/CPAN-foolishness.git
-version: 2014.10.01
+version: 2014.10.02

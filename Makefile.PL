@@ -10,7 +10,7 @@ use ExtUtils::MakeMaker ;
 
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "Much has changed in twenty years... but THEMA-MEDIA still provides solutions based on proven technologies",
+  "ABSTRACT" => "Providing solutions with Modern Perl",
   "AUTHOR" => "Theo van Hoesel <Th.J.v.Hoesel\@THEMA-MEDIA.nl>",
   "CONFIGURE_REQUIRES" => {
     "ExtUtils::MakeMaker" => 0
@@ -20,7 +20,7 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "THEMA::MEDIA",
   "PREREQ_PM" => {},
-  "VERSION" => "2014.10.01",
+  "VERSION" => "2014.10.02",
   "test" => {
     "TESTS" => ""
   }

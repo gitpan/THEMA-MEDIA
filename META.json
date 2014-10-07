@@ -1,5 +1,5 @@
 {
-   "abstract" : "Much has changed in twenty years... but THEMA-MEDIA still provides solutions based on proven technologies",
+   "abstract" : "Providing solutions with Modern Perl",
    "author" : [
       "Theo van Hoesel <Th.J.v.Hoesel@THEMA-MEDIA.nl>"
    ],
@@ -28,17 +28,6 @@
       }
    },
    "release_status" : "stable",
-   "resources" : {
-      "bugtracker" : {
-         "web" : "https://github.com/THEMA-MEDIA/CPAN-foolishness/issues"
-      },
-      "homepage" : "https://github.com/THEMA-MEDIA/CPAN-foolishness",
-      "repository" : {
-         "type" : "git",
-         "url" : "https://github.com/THEMA-MEDIA/CPAN-foolishness.git",
-         "web" : "https://github.com/THEMA-MEDIA/CPAN-foolishness"
-      }
-   },
-   "version" : "2014.10.01"
+   "version" : "2014.10.02"
 }
 
